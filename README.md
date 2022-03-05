@@ -1,8 +1,8 @@
-#### dcit205_project_1
-
+dcit205_project_1
+02/03/2022
 # DCIT 205 - Multimedia and Web Design
 
-### Project 1 02/03/2022
+### Project 1 
 # Student Profile Webpage
 ## Student ID = 10897994
 
